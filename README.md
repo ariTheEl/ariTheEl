@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ariTheEl
-- 👀 I’m interested in Python for cybersecurity, backend web development and AI
-- 🌱 I’m currently trying my hands on any Python projects
+- 👀 I’m interested in Full Stack Development, currently learning HTML and CSS.
+- 🌱 I’m currently trying my hands on any web development projects;front end, back end or full stack.
 - 💞️ I’m looking to collaborate on any beginner friendly projects
 - 📫 How to reach me arikoeloho on IG. 
 
